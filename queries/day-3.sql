@@ -27,9 +27,9 @@ from cleaned_departments
 GROUP BY dept_id, dept_name
 HAVING COUNT(*) > 1;
 
-SELECT emp_id, attendance_date,Count(*)
+SELECT emp_id, attendance_id,Count(*)
 FROM cleaned_attendance
-GROUP BY emp_id, attendance_date
+GROUP BY emp_id, attendance_id
 HAVING COUNT(*) > 1;
 
 select emp_id,count(*)
