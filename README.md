@@ -99,7 +99,7 @@ Replaced incorrect dates with NULL to avoid misleading data
 Standardized all valid dates into a uniform format (YYYY-MM-DD)
 Ensured consistency across all date-related columns
 
-## Day 6: Data Cleaning
+## Day 8: Data Cleaning
 ## Objective
 Identified leading and trailing spaces in emp_name column
 ## Task Completed
