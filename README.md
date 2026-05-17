@@ -100,6 +100,7 @@ Standardized all valid dates into a uniform format (YYYY-MM-DD)
 Ensured consistency across all date-related columns
 
 ## Day 6: Data Cleaning
+## Objective
 Identified leading and trailing spaces in emp_name column
 ## Task Completed
 Removed unwanted spaces using TRIM() to ensure consistency
