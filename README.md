@@ -116,3 +116,10 @@ Ensured uniform structure across all tables for accurate querying
 • Find employees without department
 • Find who earns how much
 • List employees without salary
+
+## Day 10: SQL Tasks
+## Queries
+• What are the performance ratings of each employee?
+• Which employees do not have any salary records?
+• Which employees do not have any attendance records?
+• What is the employee name, department, and salary together?
