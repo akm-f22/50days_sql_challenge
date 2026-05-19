@@ -108,3 +108,11 @@ Checked data types across all tables (employees, departments, salary, performanc
 Detected incorrect data types affecting joins and analysis
 Converted columns to appropriate data types (INT, VARCHAR, DATE, DECIMAL)
 Ensured uniform structure across all tables for accurate querying
+
+## Day 9: SQL Tasks
+## Queries
+• Show only employees who have a valid department
+• Show all employees (even without department)
+• Find employees without department
+• Find who earns how much
+• List employees without salary
