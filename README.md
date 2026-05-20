@@ -123,3 +123,10 @@ Ensured uniform structure across all tables for accurate querying
 • Which employees do not have any salary records?
 • Which employees do not have any attendance records?
 • What is the employee name, department, and salary together?
+
+## Day 11: SQL Tasks
+## Queries
+• What is the employee name, department, and performance ratings?
+• What is the complete profile of each employee (department, salary, performance)?
+• How many salary records does each employee have?
+• What is the total salary paid to each employee?
