@@ -130,3 +130,11 @@ Ensured uniform structure across all tables for accurate querying
 • What is the complete profile of each employee (department, salary, performance)?
 • How many salary records does each employee have?
 • What is the total salary paid to each employee?
+
+## Day 12: SQL Tasks
+## Queries
+• What is the average salary in each department?
+• How many days was each employee present at work?
+• List of employees belonging to the same department
+• Which employee has more than one salary record?
+
