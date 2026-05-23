@@ -138,3 +138,9 @@ Ensured uniform structure across all tables for accurate querying
 • List of employees belonging to the same department
 • Which employee has more than one salary record?
 
+## Day 13: SQL Tasks
+## Queries
+• List employees earning more than average salary
+• List employees with maximum salary
+• List employees earning less than average salary
+• List employees with minimum salary
