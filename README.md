@@ -144,3 +144,9 @@ Ensured uniform structure across all tables for accurate querying
 • List employees with maximum salary
 • List employees earning less than average salary
 • List employees with minimum salary
+
+## Day 14: SQL Tasks (Department-Level Analysis)
+## Queries
+• List employees earning more than the department average salary
+• List employees whose salary is equal to the highest salary in their department
+• List all employees whose salary is equal to the lowest salary in their department
