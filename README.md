@@ -150,3 +150,10 @@ Ensured uniform structure across all tables for accurate querying
 • List employees earning more than the department average salary
 • List employees whose salary is equal to the highest salary in their department
 • List all employees whose salary is equal to the lowest salary in their department
+
+## Day 15: SQL Tasks (EXISTS / NOT EXISTS)
+## Queries
+• List employees with salary records (at least once)
+• List employees without salary records
+• List employees with attendance records
+• List employees without attendance records
