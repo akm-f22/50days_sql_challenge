@@ -192,3 +192,10 @@ Ensured uniform structure across all tables for accurate querying
 • Retrieve first (oldest) salary record for each employee
 • Rank salary entries for each employee
 • Get top 2 salary records per employee
+
+## Day 21 : SQL Tasks (RANK & DENSE_RANK)
+## Queries
+• Rank employees based on salary
+• Perform department-wise ranking of employees
+• Identify top performers based on average performance rating
+• Find top 3 employees based on salary ranking
