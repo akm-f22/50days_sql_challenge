@@ -205,3 +205,9 @@ Ensured uniform structure across all tables for accurate querying
 • Show each employee with average salary of their department
 • Show total salary of each department for every employee
 • Show average performance rating of each department
+
+## Day 23: SQL Tasks (LAG – Trend Analysis)
+## Queries
+• Show current salary along with previous salary for each employee
+• Calculate difference between current salary and previous salary
+• Analyze attendance trend (compare current status with previous status)
