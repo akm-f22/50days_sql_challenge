@@ -217,3 +217,9 @@ Ensured uniform structure across all tables for accurate querying
 • Show current salary along with next salary for each employee
 • Compare current salary with next salary for growth analysis
 • Predict attendance trend by comparing current and next status
+
+## Day 25: SQL Tasks (Cumulative Analysis – Running Totals)
+## Queries
+• Calculate running total salary for each employee over time
+• Calculate running attendance count for each employee
+• Calculate cumulative salary for each department over time
