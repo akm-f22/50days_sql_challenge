@@ -230,3 +230,10 @@ Ensured uniform structure across all tables for accurate querying
 • Compare each employee’s salary with their department average (Above Avg / Below Avg / Equal)
 • Find top 3 highest paid employees in each department
 • Find lowest salary employee in each department
+
+## Day 27: SQL Tasks (Overall Salary Comparison)
+## Queries
+• Compare each employee's salary with overall average salary (> avg → Above Avg, < avg → Below Avg,= avg → Equal)
+• Compare employee salary with total salary of all employees (salary > 10% of total salary → High Contributor, else → Low
+Contributor)
+• Compare department total salary with overall total salary (dept total > 10% of total → High Dept, else → Low Dept)
