@@ -237,3 +237,10 @@ Ensured uniform structure across all tables for accurate querying
 • Compare employee salary with total salary of all employees (salary > 10% of total salary → High Contributor, else → Low
 Contributor)
 • Compare department total salary with overall total salary (dept total > 10% of total → High Dept, else → Low Dept)
+
+## Day 28: SQL Tasks (Advanced Analysis & Ranking)
+## Queries
+• Find top 2 highest paid employees in each department
+• Calculate salary gap (difference between current salary and previous salary)
+• Calculate performance gap (change in performance between years)
+• Filter only top performers based on ranking
