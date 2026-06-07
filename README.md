@@ -244,3 +244,9 @@ Contributor)
 • Calculate salary gap (difference between current salary and previous salary)
 • Calculate performance gap (change in performance between years)
 • Filter only top performers based on ranking
+
+## Day 29: SQL Tasks (Advanced Window Functions & Analysis)
+## Queries
+• Find latest salary per employee along with total salary till that point
+• Rank employees based on salary and compare with department average salary
+• Check whether salary has increased or decreased compared to previous record
