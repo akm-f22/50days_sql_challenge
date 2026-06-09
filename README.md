@@ -250,3 +250,10 @@ Contributor)
 • Find latest salary per employee along with total salary till that point
 • Rank employees based on salary and compare with department average salary
 • Check whether salary has increased or decreased compared to previous record
+
+## Day 30: SQL Tasks (CTE – Common Table Expressions)
+## Queries
+• Create a temporary result set using CTE and filter data from it
+• Combine employees and salaries using CTE
+• Calculate department average salary using CTE
+• Find employees earning more than department average using CTE
