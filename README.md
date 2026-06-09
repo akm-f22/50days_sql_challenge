@@ -257,3 +257,9 @@ Contributor)
 • Combine employees and salaries using CTE
 • Calculate department average salary using CTE
 • Find employees earning more than department average using CTE
+
+## Day 31: SQL Tasks (CTE – Multi-Step Analysis)
+## Queries
+• Find employees whose total salary is greater than 100000
+• Show employee salary along with department average salary using CTE
+• Find department with highest total salary
