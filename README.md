@@ -283,3 +283,10 @@ Contributor)
 • Create index on emp_id to speed up employee search
 • Create index on dept_id for faster department-based filtering
 • Create composite index on (emp_id, salary_date) for optimized multi-column queries
+
+## Day 35: SQL Tasks (Index Optimization – Performance Testing)
+## Queries
+• Analyze query performance before applying index using EXPLAIN ANALYZE
+• Apply index on join columns and compare performance after indexing
+• Analyze query using multiple conditions (emp_id, salary_date) and optimize using composite index
+• Compare query performance before and after applying index on emp_id
