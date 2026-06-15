@@ -297,3 +297,9 @@ Contributor)
 • Create a procedure with input parameter to find employee by emp_id
 • Create a procedure using JOIN to fetch employee and salary details
 • Create a procedure for salary report (employees with salary > 50000)
+
+## Day 37: SQL Tasks (Stored Procedures – Conditional & Aggregation)
+## Queries
+• Create procedure with IF condition to return message based on salary
+• Create procedure with CASE statement to categorize employees (High / Medium / Low)
+• Create procedure with aggregation to calculate total salary per employee
