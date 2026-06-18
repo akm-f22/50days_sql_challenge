@@ -317,3 +317,10 @@ Contributor)
 • Automatically convert negative salary values to 0 before inserting data
 • Create AFTER UPDATE trigger to track salary changes
 • Store old salary and new salary records inside salary_logs table
+
+## Day 40: SQL Tasks (Temporary Tables)
+## Queries
+• Create temporary table for employee salary summary
+• Insert aggregated salary data into temporary table
+• Join temporary table with employee table to fetch employee details
+• Drop temporary table after usage
