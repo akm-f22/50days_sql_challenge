@@ -329,3 +329,13 @@ Contributor)
 ## Queries
 • Create all tables based on the given ER Diagram
 • Load dataset into MySQL tables using import/load methods
+
+## Day 42: SQL Tasks (Data Cleaning – Duplicate Tables & Cleaning Operations)
+## Queries
+• Create duplicate tables for cleaning process (clean_customers, clean_products, clean_orders, clean_order_details,
+clean_payments)
+• Remove leading and trailing spaces using TRIM()
+• Standardize text using UPPER()
+• Replace NULL values with default values
+• Remove duplicate records using ROW_NUMBER()
+• Repeat Step 2 for all remaining 4 tables
