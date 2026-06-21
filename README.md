@@ -339,3 +339,12 @@ clean_payments)
 • Replace NULL values with default values
 • Remove duplicate records using ROW_NUMBER()
 • Repeat Step 2 for all remaining 4 tables
+
+## Day 43: SQL Tasks (Date Formatting, Data Types & Constraints)
+## Queries
+• Standardize and format date columns using STR_TO_DATE()
+• Convert dates into proper SQL DATE format
+• Fix incorrect data types across all cleaned tables
+• Modify columns using appropriate data types (INT, VARCHAR, DECIMAL, DATE)
+• Add Primary Key constraints to tables
+• Add Foreign Key constraints to maintain relationships between tables
