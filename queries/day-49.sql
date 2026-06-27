@@ -99,3 +99,5 @@ begin
     group by c.customer_id, c.customer_name
     order by total_revenue desc;
 end;
+
+call customer_revenue_report();
